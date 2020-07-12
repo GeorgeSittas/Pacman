@@ -2,11 +2,11 @@
 
 This is a classic pacman game written in C. The game window looks like this:
 
-![](https://imgur.com/azLBIPS.png)
+![](https://imgur.com/azLBIPS.png | width=100)
 
 ### Install
 ```
-git clone https://github.com/GeorgeSittas/Snake.git
+git clone https://github.com/GeorgeSittas/Pacman.git
 ```
 ### Prerequisites / Dependencies
 This project uses the NCurses C library, so you need to make sure it's already installed in your system.

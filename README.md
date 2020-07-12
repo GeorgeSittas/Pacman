@@ -2,7 +2,7 @@
 
 This is a classic pacman game written in C. The game window looks like this:
 
-![](https://imgur.com/azLBIPS.png =250x250)
+![](https://imgur.com/azLBIPS.png)
 
 ### Install
 ```

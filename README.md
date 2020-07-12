@@ -2,7 +2,7 @@
 
 This is a classic pacman game written in C. The game window looks like this:
 
-<img src="https://imgur.com/azLBIPS.png" width="100">
+<img src="https://imgur.com/azLBIPS.png" width="500">
 
 ### Install
 ```

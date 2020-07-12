@@ -23,9 +23,11 @@ make play
 ```
 cd Pacman
 make clean
+```
 
 ### How to play
-The game instructions can be seen in the above image.
+The game instructions can be seen in the above image. Note that Pacman is represented by an
+arrow character (<, >, ^, v), while a ghost is represented by the character B (for blinky).
 
 ### Screen configuration
 Two adjacent characters that are located on different lines might be more distant apart than
@@ -33,3 +35,8 @@ when they are on the same line, depending on your terminal window configuration.
 the characters (pacman, ghost) will seem to move faster when moving vertically. If that bothers
 you, try adjusting the line spacing of your terminal window and select whichever one works best
 for you.
+
+### Notes
+In the current version of this project, there's only one ghost chasing pacman, the ghost 'Blinky'.
+There are some lines in the code that've been left commented out on purpose, so that addition of
+other ghosts can be done easily & fast, by uncommenting these lines.

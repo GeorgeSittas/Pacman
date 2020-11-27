@@ -28,7 +28,7 @@ make clean
 
 ### How to play
 The game instructions can be seen in the above image. Note that Pacman is represented by an
-arrow character (<, >, ^, v), while a ghost is represented by the character B (for blinky).
+arrow character (<, >, ^, v), while a ghost is represented by the character B (for "Blinky").
 
 ### Screen configuration
 Two adjacent characters that are located on different lines might be more distant apart than

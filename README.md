@@ -1,6 +1,7 @@
 # Pacman
 
-This is a classic pacman game written in C. The game window looks like this:
+Goal for this project is to make a (simplified) ([Pacman](https://www.ostechnix.com/how-to-install-ncurses-library-in-linux/))
+in C. The game window looks like this:
 
 <img src="https://imgur.com/azLBIPS.png" width="650">
 

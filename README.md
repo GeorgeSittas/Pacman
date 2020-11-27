@@ -1,6 +1,6 @@
 # Pacman
 
-Goal for this project is to make a (simplified) ([Pacman](https://en.wikipedia.org/wiki/Pac-Man))
+Goal for this project is to make a (simplified) [Pacman](https://en.wikipedia.org/wiki/Pac-Man)
 in C. The game window looks like this:
 
 <img src="https://imgur.com/azLBIPS.png" width="650">

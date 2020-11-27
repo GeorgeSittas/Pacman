@@ -38,6 +38,6 @@ you, try adjusting the line spacing of your terminal window and select whichever
 for you.
 
 ### Notes
-In the current version of this project, there's only one ghost chasing pacman, the ghost 'Blinky'.
+In the current version of this project, there's only one ghost chasing pacman, the ghost "Blinky".
 There are some lines in the code that've been left commented out on purpose, so that addition of
 other ghosts can be done easily & fast, by uncommenting these lines.
